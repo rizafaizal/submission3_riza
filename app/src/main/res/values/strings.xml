@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Daftar Film</string>
+    <string name="ubah_bahasa">Ubah Bahasa</string>
+    <string name="tab_movies">Movies</string>
+    <string name="tab_tvshow">Tv Show</string>
+    <string name="bar_detail_film">Detail Film</string>
+    <string name="deskripsi_detail">Description</string>
+    <string name="kamu_pilih">Kamu memilih :</string>
+    <string name="language">en-US</string>
+    <string name="poster_film">Poster Film</string>
+</resources>
